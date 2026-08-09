@@ -57,5 +57,4 @@ The dashboard transforms raw Netflix data into meaningful business insights thro
 ## 👤 Author
 
 **Eusebius Chidera Onyeamalu**
-
-Aspiring Data Analyst
+Data Analyst
