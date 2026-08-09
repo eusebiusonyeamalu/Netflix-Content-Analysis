@@ -29,6 +29,7 @@ The dashboard transforms raw Netflix data into meaningful business insights thro
 ---
 
 ## 📊 Dashboard Preview
+<img width="857" height="495" alt="Netflix Dashboard png" src="https://github.com/user-attachments/assets/0bedba54-1631-4baa-ae7e-e1b889fc1c36" />
 
 
 
